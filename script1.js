@@ -4,7 +4,7 @@ class User {
         this.age = age
     }
 
-    direBonjour(){
+    direBonjour() {
         console.log('Bonjour')
     }
 }

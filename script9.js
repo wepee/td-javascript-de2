@@ -5,7 +5,7 @@
 
 let capital = 100
 
-for(let i = 0; i < 20; i++){
+for (let i = 0; i < 20; i++) {
     capital = capital * 1.043
 }
 

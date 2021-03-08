@@ -9,7 +9,7 @@ Calculez ce nombre de deux manières : le nombre exact de grains (nombre entier)
 en notation scientifique (nombre réel).
 */
 
-nb_grain = Math.pow(2,64)
+nb_grain = Math.pow(2, 64)
 
 console.log(nb_grain)
 

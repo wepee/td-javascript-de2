@@ -1,5 +1,5 @@
-/*Réaliser un module permettant de jouer au jeu du « Plus cher, moins cher », demandant à l’utilisateur de
- deviner un nombre. Dans un second temps, remplacer l’utilisateur par une simple IA.*/
+/*  Réaliser un module permettant de jouer au jeu du « Plus cher, moins cher », demandant à l’utilisateur de
+    deviner un nombre. Dans un second temps, remplacer l’utilisateur par une simple IA.*/
 
 const readline = require('readline');
 

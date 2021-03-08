@@ -14,4 +14,4 @@ function divide(a, b) {
     return a / b
 }
 
-export { add, minus, multiply, divide}
+export {add, minus, multiply, divide}
